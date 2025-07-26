@@ -107,13 +107,13 @@ A frontend-centric app (initially) with optional cloud backend support in later 
 
 ## Entity Relationship Diagram (ERD)
 
-![Entity Relationship Diagram (ERD)](https://github.com/sujaybn/personal_library/blob/main/ERD.drawio.png)
+![Entity Relationship Diagram (ERD)](https://github.com/sujaybn/personal_library/blob/main/UML%20diagrams/ERD.drawio.png)
 
 ---
 
 ## UML Class Diagram
 
-![UML Class disgram](https://github.com/sujaybn/personal_library/blob/main/library%20app%20class%20diagram.drawio.png)
+![UML Class disgram](https://github.com/sujaybn/personal_library/blob/main/UML%20diagrams/library%20app%20class%20diagram.drawio.png)
 
 ---
 
@@ -125,7 +125,7 @@ A frontend-centric app (initially) with optional cloud backend support in later 
 
 ## Activity Diagram – Add Book
 
-![Activity diagram](https://github.com/sujaybn/personal_library/blob/main/Activity%20diagram.drawio.png)
+![Activity diagram](https://github.com/sujaybn/personal_library/blob/main/UML%20diagrams/Activity%20diagram.drawio.png)
 
 ---
 
