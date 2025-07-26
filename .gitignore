@@ -1,0 +1,108 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Compiled source
+*.class
+*.o
+*.so
+*.dll
+*.exe
+*.pyc
+*.pyo
+__pycache__/
+
+# Node modules
+node_modules/
+
+# Environment files
+.env
+.env.*.local
+
+# Python virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Coverage reports
+coverage/
+*.cover
+*.lcov
+*.lcov.info
+.nyc_output/
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Build directories
+dist/
+build/
+out/
+target/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Mac system files
+.AppleDouble
+.LSOverride
+
+# Linux trash
+.Trash-*
+
+# JetBrains
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Test reports
+test-output/
+*.tap
+*.mochawesome.json
+*.xml
+
+# Package locks (optional)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Miscellaneous
+*.orig
+*.rej
+*.backup
+
+# Ignore SQLite or local DBs
+*.sqlite
+*.sqlite3
+*.db
+
+# Ignore GitHub-specific settings
+.github/workflows/*.bak
+
+# Ignore image caches or uploads (optional)
+uploads/
+*.webp
+*.thumb.*
+
+# Ignore generated files
+*.pdf
+*.docx
+*.pptx
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore temporary local settings
+*.local
