@@ -62,7 +62,6 @@ A frontend-centric app (initially) with optional cloud backend support in later 
 - year: Number
 - description: String
 - coverImage: URL
-- borrowerId: UUID (nullable)
 - notes: BookNote[]
 - borrowHistory: BorrowHistory[]
 ```
